@@ -1,5 +1,7 @@
 {
-  "name": "expense-tracker",
-  "id": "com.minson.app",
-  "type": "capacitor"
+  "appId": "aa555321",
+  "build": {
+    "type": "capacitor",
+    "platform": "android"
+  }
 }
