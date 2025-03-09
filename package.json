@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "vite build",
+    "dev": "vite"
   },
   "keywords": [],
   "author": "Minson2951",
@@ -14,7 +15,9 @@
     "@capacitor/core": "^7.0.1"
   },
   "description": "This app is to track the expenses by minson",
-  "devDependencies": {},
+  "devDependencies": {
+    "vite": "^6.2.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Minson2951/frontend-projects.git#ecc65a498278331e054f586d9ab375a79d92c94d"

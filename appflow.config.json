@@ -1,0 +1,5 @@
+{
+  "name": "expense-tracker",
+  "id": "com.minson.app",
+  "type": "capacitor"
+}
